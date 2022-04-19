@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aman2905chugh
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in DevOps Engineer
+- 🌱 I’m currently learning Jenkins
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at aman2905chugh@gmail.com
 
